@@ -1,0 +1,660 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cached_video_player] D:\pro\whatsapp-flutter-ui\build\cached_video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:agora_uikit] D:\pro\whatsapp-flutter-ui\build\agora_uikit\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\pro\whatsapp-flutter-ui\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:audioplayers_android] D:\pro\whatsapp-flutter-ui\build\audioplayers_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] D:\pro\whatsapp-flutter-ui\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] D:\pro\whatsapp-flutter-ui\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] D:\pro\whatsapp-flutter-ui\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] D:\pro\whatsapp-flutter-ui\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:emoji_picker_flutter] D:\pro\whatsapp-flutter-ui\build\emoji_picker_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_sound] D:\pro\whatsapp-flutter-ui\build\flutter_sound\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] D:\pro\whatsapp-flutter-ui\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_contacts] D:\pro\whatsapp-flutter-ui\build\flutter_contacts\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\9df3b50e17b0b7d5f47a1530f9c20c50\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\30aa6605f58cacf3efbd052db5b792d9\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\24b9538e94cc9a0dc0617fd2235218fb\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\01c77d6eba76e8b93e807e020c1f1618\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\975b23c22ce7c013cc4d65e1402108c4\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.media:media:1.4.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\555c52e2f69b869408132f7867686415\media-1.4.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f0f6872af35b2e440d5123f39d27cebd\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\b63430ab5175a3f3cb87838e54433b65\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\c4c0a16993eaf2d6160f7e56fe171b24\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\a8da46f835c69fdf822dee13d66004c0\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8ff5c28f97e02b346f8efde74b292ee7\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\0d19c5b4b816ba714b380d929b237677\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\74384a532cd4fa5ca18a1802fbc571e2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\4072730e3a1db5952134a2d7ad57ddc4\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f4b1a10da228067b5bcf8ee717e39a9b\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e3926299cfe616eb8d83d56283f60436\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\92d2fbcc02d373e107b7cad8f2c38fc4\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8cc5aee7ceea6518a250deba78077b5e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\3bea304d9e32f0c2ffcefe83dcc66d25\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e7ca1d6d27a426759ce744af7fc344b\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1352e94ea999fc28f2d639c47b9f3edd\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\2940a5e589d9b4700d53790d7ad32d0b\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\dd84842a94dab60e5b43753843887798\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1bb41be8c833aef88d1b0710570aba7c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ba52ce130201de2e02d58da17decdcdc\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\300f2b819c9c39b176d7e013491210b4\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f79fa63f041066e6c2a073a34c192d7b\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6ba7b06d9e4cd0abc851638e7bf9d24a\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\610e81298d2424f92041f08b2807a3df\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8b6353859313d1a458a7c863f77141bc\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ce77b8bced9c309574bb1ec703d3e779\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\d390b4f2cc0cc981cc5e5e6712ca7a46\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6b5ea011b89f69dabce552935d16a3b0\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ecfe1ef24188d4eb0035a9973b01133d\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1e7a6c3e4400cbb9f8ec2c2e4335ee75\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8bff6e5c8e9bca15016570b80e66c5b0\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ef955cbaf1d2b2c2f01b92594eceeef7\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1b25bdd12add89c426d906cce42bb958\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\b4b79acd1c58bd5bdd175166fdac5db6\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\9167e508271f6e87eadf123d3752b3c9\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cb6f238ab322c1ccdf4a70c9d969bd4a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6ad1b44b94c0a96598208e5f0ea21173\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\a883167b557ca809d067228aeef0fb00\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\26dd83f0701006eea7b9fa06c03c1a5e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6539f852b4f8bed57800c6979c4e6c62\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.agora.rtm:rtm-sdk:1.4.10] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\272e9663f6e19601aea07694f94e1631\jetified-rtm-sdk-1.4.10\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\90fe6c151bb06c6a12bfb73dbeec7196\jetified-grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
+MERGED from [io.agora.rtc:full-sdk:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\3ee1ff010228f05256fa5564f69c02cf\jetified-full-sdk-3.7.0.3\AndroidManifest.xml:2:1-11:12
+MERGED from [io.agora.rtc:iris-rtc:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\20ba6cbb2f9bec3837d3edafbf4c6675\jetified-iris-rtc-3.7.0.3\AndroidManifest.xml:2:1-11:12
+MERGED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\90b86bacf077649a65d97cfd41fbe32a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\0537ab1cfa4f1eadc87a1e35615371e7\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:3:5-71
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:3:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:4:5-72
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:4:22-70
+uses-permission#android.permission.INTERNET
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:6:5-75
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-75
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:6:23-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:8:1-69
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-71
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:8:19-65
+uses-permission#android.permission.CAMERA
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:9:1-63
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-65
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:9:19-59
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:10:1-78
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-80
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-80
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:13:5-80
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:10:19-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:11:1-77
+MERGED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8ff5c28f97e02b346f8efde74b292ee7\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8ff5c28f97e02b346f8efde74b292ee7\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ef955cbaf1d2b2c2f01b92594eceeef7\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ef955cbaf1d2b2c2f01b92594eceeef7\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\90fe6c151bb06c6a12bfb73dbeec7196\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\90fe6c151bb06c6a12bfb73dbeec7196\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:11:19-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:13:1-66
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-68
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-68
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:11:5-68
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:13:19-62
+application
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:14:4-48:19
+MERGED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\24b9538e94cc9a0dc0617fd2235218fb\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\24b9538e94cc9a0dc0617fd2235218fb\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\01c77d6eba76e8b93e807e020c1f1618\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\01c77d6eba76e8b93e807e020c1f1618\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:15:5-16:19
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:15:5-16:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\74384a532cd4fa5ca18a1802fbc571e2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\74384a532cd4fa5ca18a1802fbc571e2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f4b1a10da228067b5bcf8ee717e39a9b\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f4b1a10da228067b5bcf8ee717e39a9b\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e3926299cfe616eb8d83d56283f60436\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e3926299cfe616eb8d83d56283f60436\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f79fa63f041066e6c2a073a34c192d7b\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f79fa63f041066e6c2a073a34c192d7b\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8b6353859313d1a458a7c863f77141bc\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8b6353859313d1a458a7c863f77141bc\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:13:5-29:19
+MERGED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:13:5-29:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f79fa63f041066e6c2a073a34c192d7b\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:15:9-36
+	android:icon
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:16:9-43
+activity#com.example.whatsapp_ui.MainActivity
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:17:9-42:20
+	android:launchMode
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:21:13-163
+	android:theme
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:18:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:28:13-31:17
+	android:resource
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:30:15-52
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:29:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:40:27-74
+meta-data#flutterEmbedding
+ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:45:9-47:33
+	android:value
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:47:13-30
+	android:name
+		ADDED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml:46:13-44
+uses-sdk
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml
+MERGED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cached_video_player] D:\pro\whatsapp-flutter-ui\build\cached_video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cached_video_player] D:\pro\whatsapp-flutter-ui\build\cached_video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:agora_uikit] D:\pro\whatsapp-flutter-ui\build\agora_uikit\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:agora_uikit] D:\pro\whatsapp-flutter-ui\build\agora_uikit\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\pro\whatsapp-flutter-ui\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\pro\whatsapp-flutter-ui\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audioplayers_android] D:\pro\whatsapp-flutter-ui\build\audioplayers_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers_android] D:\pro\whatsapp-flutter-ui\build\audioplayers_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:sqflite] D:\pro\whatsapp-flutter-ui\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] D:\pro\whatsapp-flutter-ui\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\pro\whatsapp-flutter-ui\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\pro\whatsapp-flutter-ui\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\pro\whatsapp-flutter-ui\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\pro\whatsapp-flutter-ui\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] D:\pro\whatsapp-flutter-ui\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] D:\pro\whatsapp-flutter-ui\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:emoji_picker_flutter] D:\pro\whatsapp-flutter-ui\build\emoji_picker_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:emoji_picker_flutter] D:\pro\whatsapp-flutter-ui\build\emoji_picker_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sound] D:\pro\whatsapp-flutter-ui\build\flutter_sound\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sound] D:\pro\whatsapp-flutter-ui\build\flutter_sound\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] D:\pro\whatsapp-flutter-ui\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] D:\pro\whatsapp-flutter-ui\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_contacts] D:\pro\whatsapp-flutter-ui\build\flutter_contacts\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_contacts] D:\pro\whatsapp-flutter-ui\build\flutter_contacts\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\9df3b50e17b0b7d5f47a1530f9c20c50\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\9df3b50e17b0b7d5f47a1530f9c20c50\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\30aa6605f58cacf3efbd052db5b792d9\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\30aa6605f58cacf3efbd052db5b792d9\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\24b9538e94cc9a0dc0617fd2235218fb\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\24b9538e94cc9a0dc0617fd2235218fb\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\01c77d6eba76e8b93e807e020c1f1618\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\01c77d6eba76e8b93e807e020c1f1618\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\975b23c22ce7c013cc4d65e1402108c4\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\975b23c22ce7c013cc4d65e1402108c4\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.4.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\555c52e2f69b869408132f7867686415\media-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\555c52e2f69b869408132f7867686415\media-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f0f6872af35b2e440d5123f39d27cebd\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f0f6872af35b2e440d5123f39d27cebd\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\b63430ab5175a3f3cb87838e54433b65\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\b63430ab5175a3f3cb87838e54433b65\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\c4c0a16993eaf2d6160f7e56fe171b24\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\c4c0a16993eaf2d6160f7e56fe171b24\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\a8da46f835c69fdf822dee13d66004c0\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\a8da46f835c69fdf822dee13d66004c0\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8ff5c28f97e02b346f8efde74b292ee7\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8ff5c28f97e02b346f8efde74b292ee7\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\0d19c5b4b816ba714b380d929b237677\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\0d19c5b4b816ba714b380d929b237677\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\74384a532cd4fa5ca18a1802fbc571e2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\74384a532cd4fa5ca18a1802fbc571e2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\4072730e3a1db5952134a2d7ad57ddc4\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\4072730e3a1db5952134a2d7ad57ddc4\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f4b1a10da228067b5bcf8ee717e39a9b\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f4b1a10da228067b5bcf8ee717e39a9b\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e3926299cfe616eb8d83d56283f60436\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e3926299cfe616eb8d83d56283f60436\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\92d2fbcc02d373e107b7cad8f2c38fc4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\92d2fbcc02d373e107b7cad8f2c38fc4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8cc5aee7ceea6518a250deba78077b5e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8cc5aee7ceea6518a250deba78077b5e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\3bea304d9e32f0c2ffcefe83dcc66d25\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\3bea304d9e32f0c2ffcefe83dcc66d25\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e7ca1d6d27a426759ce744af7fc344b\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e7ca1d6d27a426759ce744af7fc344b\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1352e94ea999fc28f2d639c47b9f3edd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1352e94ea999fc28f2d639c47b9f3edd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\2940a5e589d9b4700d53790d7ad32d0b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\2940a5e589d9b4700d53790d7ad32d0b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\dd84842a94dab60e5b43753843887798\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\dd84842a94dab60e5b43753843887798\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1bb41be8c833aef88d1b0710570aba7c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1bb41be8c833aef88d1b0710570aba7c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ba52ce130201de2e02d58da17decdcdc\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ba52ce130201de2e02d58da17decdcdc\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\300f2b819c9c39b176d7e013491210b4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\300f2b819c9c39b176d7e013491210b4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f79fa63f041066e6c2a073a34c192d7b\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\f79fa63f041066e6c2a073a34c192d7b\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6ba7b06d9e4cd0abc851638e7bf9d24a\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6ba7b06d9e4cd0abc851638e7bf9d24a\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\610e81298d2424f92041f08b2807a3df\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\610e81298d2424f92041f08b2807a3df\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8b6353859313d1a458a7c863f77141bc\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8b6353859313d1a458a7c863f77141bc\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ce77b8bced9c309574bb1ec703d3e779\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ce77b8bced9c309574bb1ec703d3e779\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\d390b4f2cc0cc981cc5e5e6712ca7a46\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\d390b4f2cc0cc981cc5e5e6712ca7a46\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6b5ea011b89f69dabce552935d16a3b0\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6b5ea011b89f69dabce552935d16a3b0\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ecfe1ef24188d4eb0035a9973b01133d\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ecfe1ef24188d4eb0035a9973b01133d\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1e7a6c3e4400cbb9f8ec2c2e4335ee75\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1e7a6c3e4400cbb9f8ec2c2e4335ee75\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8bff6e5c8e9bca15016570b80e66c5b0\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\8bff6e5c8e9bca15016570b80e66c5b0\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ef955cbaf1d2b2c2f01b92594eceeef7\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ef955cbaf1d2b2c2f01b92594eceeef7\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1b25bdd12add89c426d906cce42bb958\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\1b25bdd12add89c426d906cce42bb958\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\b4b79acd1c58bd5bdd175166fdac5db6\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\b4b79acd1c58bd5bdd175166fdac5db6\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\9167e508271f6e87eadf123d3752b3c9\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\9167e508271f6e87eadf123d3752b3c9\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cb6f238ab322c1ccdf4a70c9d969bd4a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cb6f238ab322c1ccdf4a70c9d969bd4a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6ad1b44b94c0a96598208e5f0ea21173\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6ad1b44b94c0a96598208e5f0ea21173\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\a883167b557ca809d067228aeef0fb00\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\a883167b557ca809d067228aeef0fb00\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\26dd83f0701006eea7b9fa06c03c1a5e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\26dd83f0701006eea7b9fa06c03c1a5e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6539f852b4f8bed57800c6979c4e6c62\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\6539f852b4f8bed57800c6979c4e6c62\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [io.agora.rtm:rtm-sdk:1.4.10] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\272e9663f6e19601aea07694f94e1631\jetified-rtm-sdk-1.4.10\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtm:rtm-sdk:1.4.10] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\272e9663f6e19601aea07694f94e1631\jetified-rtm-sdk-1.4.10\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\90fe6c151bb06c6a12bfb73dbeec7196\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\90fe6c151bb06c6a12bfb73dbeec7196\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.agora.rtc:full-sdk:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\3ee1ff010228f05256fa5564f69c02cf\jetified-full-sdk-3.7.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtc:full-sdk:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\3ee1ff010228f05256fa5564f69c02cf\jetified-full-sdk-3.7.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtc:iris-rtc:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\20ba6cbb2f9bec3837d3edafbf4c6675\jetified-iris-rtc-3.7.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtc:iris-rtc:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\20ba6cbb2f9bec3837d3edafbf4c6675\jetified-iris-rtc-3.7.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\90b86bacf077649a65d97cfd41fbe32a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\90b86bacf077649a65d97cfd41fbe32a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\0537ab1cfa4f1eadc87a1e35615371e7\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\0537ab1cfa4f1eadc87a1e35615371e7\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\pro\whatsapp-flutter-ui\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] D:\pro\whatsapp-flutter-ui\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] D:\pro\whatsapp-flutter-ui\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\pro\whatsapp-flutter-ui\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:agora_rtm] D:\pro\whatsapp-flutter-ui\build\agora_rtm\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\pro\whatsapp-flutter-ui\android\app\src\debug\AndroidManifest.xml:1:1-7:12 reason: io.agora.agorartm requested WRITE_EXTERNAL_STORAGE
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-80
+MERGED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-80
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] D:\pro\whatsapp-flutter-ui\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:47
+	tools:ignore
+		ADDED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from [:agora_rtc_engine] D:\pro\whatsapp-flutter-ui\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-70
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\7e3eccaff1db578fa5774cb44e89ee18\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\529aa705b919ff2fc0a250c33db22877\jetified-firebase-auth-21.0.6\AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.2.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\76a40cff587eb08c389573deb514101a\jetified-firebase-firestore-24.2.1\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\69d9a90ac3020e785f051096ab36e36b\jetified-firebase-storage-20.0.1\AndroidManifest.xml:34:17-107
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e65d721ed4cbfe0f0ac6da1acae1b7fd\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:9.2.13] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\ff9e2f025d7b2b85bdd239c69931a94f\jetified-flutter_sound_core-9.2.13\AndroidManifest.xml:12:22-65
+queries
+ADDED from [androidx.media:media:1.4.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\555c52e2f69b869408132f7867686415\media-1.4.1\AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.4.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\555c52e2f69b869408132f7867686415\media-1.4.1\AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.4.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\555c52e2f69b869408132f7867686415\media-1.4.1\AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media:media:1.4.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\555c52e2f69b869408132f7867686415\media-1.4.1\AndroidManifest.xml:26:21-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\cba4f1196ad778ef6f6f4e330bc91a6e\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e3926299cfe616eb8d83d56283f60436\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e3926299cfe616eb8d83d56283f60436\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e3926299cfe616eb8d83d56283f60436\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:11:22-74
+activity#io.agora.rtc.ss.impl.ScreenSharing$LocalScreenCaptureAssistantActivity
+ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:14:9-19:64
+	android:screenOrientation
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:18:13-49
+	android:exported
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:17:13-37
+	android:configChanges
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:16:13-59
+	android:theme
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:19:13-61
+	android:name
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:15:13-98
+service#io.agora.rtc.ss.impl.LocalScreenSharingService
+ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:21:9-28:19
+	android:exported
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:23:13-37
+	android:foregroundServiceType
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:24:13-60
+	android:name
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:22:13-74
+intent-filter#action:name:android.intent.action.screenshare
+ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:25:13-27:29
+action#android.intent.action.screenshare
+ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from [io.agora.rtc:full-screen-sharing:3.7.0.3] C:\Users\hanky\.gradle\caches\transforms-2\files-2.1\e89d01d75a2ca81e27f04f6b0a34cab9\jetified-full-screen-sharing-3.7.0.3\AndroidManifest.xml:26:25-73
